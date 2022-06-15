@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(0, 0, 0, 0.404);
+}
+
+nav.navbar{
+    background-color: rgb(110, 116, 34);
+}
+
+div.quem-somos{
+    background-color: blueviolet;
+    color: white;
+}
+
+.margin{
+    padding: 30px;
+}
+
+.parceiros{
+    background-color: yellow;
+}
+
+.bg-footer{
+    background-color: black;
+    color: wheat;
+}
